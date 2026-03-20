@@ -9,11 +9,11 @@ redirect_from:
 
 Add project description.
 
-**A new dataset**
+***A new dataset***
 ======
 Add information on the dataset.
 
-**Further ongoing data collection**
+***Further ongoing data collection***
 ======
 - Add information on WTO data collection.
 - Add information on case studies. 
