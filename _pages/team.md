@@ -30,7 +30,7 @@ author_profile: false
   <div style="text-align: center; width: 150px;">
     <img src="/academic-website/images/person4.jpg" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
     <h3 style="font-size: 0.9em;">Marine Roux</h3>
-    <p style="font-size: 0.8em;">Stockholm University</p>
+    <p style="font-size: 0.8em;">Stockholm University           </p>
     <a href="https://www.su.se/english/profiles/m/maro1158" style="font-size: 0.8em;">Website</a>
   </div>
 
