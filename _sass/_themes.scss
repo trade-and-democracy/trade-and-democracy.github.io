@@ -19,7 +19,7 @@ $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
+$sans-serif-narrow          : $times;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* Serif typefaces */
@@ -41,7 +41,7 @@ $type-size-8                : 0.625em;  // ~10px
 
 $global-font-family         : $times; // previously $sans-serif
 $header-font-family         : $times; // previously $sans-serif
-$caption-font-family        : $serif;
+$caption-font-family        : $times;
 
 /* ==========================================================================
    Breakpoints
