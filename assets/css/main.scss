@@ -42,13 +42,16 @@
     "vendor/font-awesome/brands"
 ;
 
-.masthead__inner-wrap {
+.site-nav {
   display: flex;
-  justify-content: center;
+  justify-content: center; /* Centers items horizontally */
+  width: 100%;
 }
 
-.greedy-nav {
-  display: flex;
-  justify-content: center;
-  background: transparent;
+@media screen and (min-width: 600px) {
+  .site-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers title and nav */
+  }
 }
