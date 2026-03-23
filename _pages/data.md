@@ -14,8 +14,6 @@ Our project contributes to studying the relationship between trade agreements an
 
 Add link to download the dataset.
 
-Add links to download replication files, supplementary material, online appendix.
-
 
 Please cite as, Manfred Elsig, Kirthana Ganeson, Andrew Lugg, and Marine Roux. Trade agreements and the design of democracy-related provisions (TRADEM): The creation of a new data set. _The Review of International Organizations_ (Accepted).
 
