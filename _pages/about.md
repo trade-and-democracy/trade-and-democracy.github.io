@@ -19,9 +19,10 @@ Add information on the dataset.
 - Add information on case studies. 
 
 
+**Funding & Support**
 
-<div style="display: flex; align-items: center; gap: 40px;">
-  <img src="/academic-website/images/logo_snf.png" alt="" height="80">
-  <img src="/academic-website/images/logo_unibern.png" alt="" height="80">
-  <img src="/academic-website/images/logo_wti.png" alt="" height="80">
+<div style="display: flex; align-items: center; gap: 40px; max-width: 100%; flex-wrap: wrap;">
+  <img src="/academic-website/images/logo_snf.png" alt="" height="80" style="max-width: 100%;">
+  <img src="/academic-website/images/logo_unibern.png" alt="" height="80" style="max-width: 100%;">
+  <img src="/academic-website/images/logo_wti.png" alt="" height="80" style="max-width: 100%;">
 </div>
