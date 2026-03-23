@@ -22,12 +22,11 @@ Add link Online Appendix.
 Please cite as, Manfred Elsig, Kirthana Ganeson, Andrew Lugg, and Marine Roux. Trade agreements and the design of democracy-related provisions (TRADEM): The creation of a new data set. _The Review of International Organizations_ (Accepted).
 
 
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/academic-website/images/disaggregated_by_decade.jpeg" style="width: 100%;">
+    <img src="/academic-website/images/disaggregated_by_decade.jpeg" style="width: 100%; height: 400px; object-fit: contain;">
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/academic-website/images/by_region_facet.jpeg" style="width: 100%;">
+    <img src="/academic-website/images/by_region_facet.jpeg" style="width: 100%; height: 400px; object-fit: contain;">
   </div>
 </div>
