@@ -30,3 +30,5 @@ Please cite as, Manfred Elsig, Kirthana Ganeson, Andrew Lugg, and Marine Roux. T
     <img src="/academic-website/images/by_region_facet.jpeg" style="width: 100%; height: 400px; object-fit: contain;">
   </div>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 80px;">
