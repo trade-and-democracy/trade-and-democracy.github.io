@@ -14,7 +14,7 @@ ADD LINKS TO REPLICATION FILES, SUPPLEMENTARY MATERIAL AND ONLINE APPENDIX.
 
 <a href="../files/TRADEM_On-line_Appendix.pdf" target="_blank" rel="noopener noreferrer"><strong>Online Appendix</strong></a>
 
-<a href="../files/TRADEM_supplementary_material.xlsx" download target="_blank"><strong>Supplementary material</strong></a>
+<a href="../files/TRADEM_Supplementary_material.xlsx" download target="_blank"><strong>Supplementary material</strong></a>
 
 <a href="../files/Replication_files.zip" download target="_blank"><strong>Replication files</strong></a>
 
