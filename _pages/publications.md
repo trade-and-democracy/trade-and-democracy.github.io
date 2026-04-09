@@ -11,7 +11,7 @@ Published articles
 Manfred Elsig, Kirthana Ganeson, Andrew Lugg and Marine Roux. Trade agreements and the design of democracy-related provisions (TRADEM): The creation of a new data set. _The Review of International Organizations_ (Accepted) 
 
 ADD LINKS TO REPLICATION FILES, SUPPLEMENTARY MATERIAL AND ONLINE APPENDIX.
-
+[Replication files](https://trade-and-democracy.github.io/files/TRADEM_On-line Appendix.pdf).
 
 Work in progress
 ======
