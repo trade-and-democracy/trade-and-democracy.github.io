@@ -36,3 +36,6 @@ The TRADEM dataset gathers information on six different types of democracy-relat
   <img src="/home/images/logo_unibern.png" alt="" style="height: 50px;">
   <img src="/home/images/logo_wti.png" alt="" style="height: 50px;">
 </div>
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 80px;">
