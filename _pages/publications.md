@@ -12,9 +12,12 @@ Manfred Elsig, Kirthana Ganeson, Andrew Lugg and Marine Roux. Trade agreements a
 
 ADD LINKS TO REPLICATION FILES, SUPPLEMENTARY MATERIAL AND ONLINE APPENDIX.
 
-[<a href="../files/TRADEM_On-line_Appendix.pdf" target="_blank" rel="noopener noreferrer"><strong>Online Appendix</strong></a>]
+<a href="../files/TRADEM_On-line_Appendix.pdf" target="_blank" rel="noopener noreferrer"><strong>Online Appendix</strong></a>
 
-<a href="../files/TRADEM_dataset.xlsx" download target="_blank"><strong>Download data</strong></a>
+<a href="../files/TRADEM_dataset.xlsx" download target="_blank"><strong>Supplementary material</strong></a>
+
+<a href="../files/Replication_files.zip" download target="_blank"><strong>Replication files</strong></a>
+
 
 Work in progress
 ======
