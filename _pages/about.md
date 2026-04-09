@@ -29,7 +29,8 @@ The TRADEM dataset gathers information on six different types of democracy-relat
 
 <div style="margin-top: 40px;"></div>
 
-**Funding & Support**
+***Funding & Support***
+======
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img src="/home/images/logo_snf.png" alt="" style="height: 50px;">
