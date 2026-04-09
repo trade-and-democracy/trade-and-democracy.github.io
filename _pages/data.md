@@ -19,10 +19,10 @@ Please cite as, Manfred Elsig, Kirthana Ganeson, Andrew Lugg, and Marine Roux. T
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/home/images/disaggregated_by_decade.jpeg" style="width: 100%; height: 400px; object-fit: contain;">
+    <img src="/images/disaggregated_by_decade.jpeg" style="width: 100%; height: 400px; object-fit: contain;">
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/home/images/by_region_facet.jpeg" style="width: 100%; height: 400px; object-fit: contain;">
+    <img src="/images/by_region_facet.jpeg" style="width: 100%; height: 400px; object-fit: contain;">
   </div>
 </div>
 
